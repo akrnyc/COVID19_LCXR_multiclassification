@@ -19,9 +19,16 @@ Downloaded from https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
 
 ### What's Available:
 
+This [GoogleDrive](https://drive.google.com/drive/folders/1ov3CtFPN67XQmanLDlRKYN7awXh937WD?usp=sharing) has the following resources. Please message me if anything is broken and/or inaccessible.
+
 Balanced training and test datasets available as zip files; these are before applied image transformations by graphical filter but after image transformations by rotation.
 
 The trained *TensorFlow* models are available as zip files. Model summaries are found as output of the jupyter notebook.
+
+Read the TensorFlow models in after unzipping:
+```
+modelX = tf.keras.models.load_model('directory/modelX_description')
+```
 
 - - - 
 
