@@ -19,9 +19,9 @@ Downloaded from https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
 
 ### What's Available:
 
-Balanced training and test datasets available for download as zip files; these are before applied image transformations by graphical filter but after image transformations by rotation.
+Balanced training and test datasets available as zip files; these are before applied image transformations by graphical filter but after image transformations by rotation.
 
-The trained *TensorFlow* models are available for download as zip files. Model summaries are found as output of the jupyter notebook.
+The trained *TensorFlow* models are available as zip files. Model summaries are found as output of the jupyter notebook.
 
 - - - 
 
