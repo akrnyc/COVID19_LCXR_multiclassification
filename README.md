@@ -5,6 +5,8 @@ The following is a computer vision study using lung chest x-ray data to assess t
 
 <img width="1175" alt="Fig3" src="https://user-images.githubusercontent.com/43153538/113652747-5f042280-9662-11eb-8426-a83e77a723fa.png">
 
+### Paper available on [arXiv](https://arxiv.org/abs/2104.02238).
+
 ### Data Sources:
 * COVID-19 Image Data Collection: Prospective Predictions Are the Future. Joseph Paul Cohen and Paul Morrison and Lan Dao and Karsten Roth and Tim Q Duong and Marzyeh Ghassemi. arXiv:2006.11988, https://github.com/ieee8023/covid-chestxray-dataset, 2020
 * Kermany, D. S., Goldbaum, M., Cai, W., Valentim, C. C., Liang, H., Baxter, S. L., ... Zhang, K. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, 172(5). https://doi.org/10.1016/j.cell.2018.02.010
